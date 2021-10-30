@@ -1,5 +1,5 @@
 # Rosalind
-Problem sets from rosalind.info, a bioinformatics course from UC San Diego and Saint Petersburg Academic University. To view the task associated with each file, go to http://rosalind.info/problems/FILENAME
+Problem sets from rosalind.info, a bioinformatics course from UC San Diego and Saint Petersburg Academic University. To view the problem associated with each file, go to http://rosalind.info/problems/FILENAME (with removal of the file extension)
 
 # From http://rosalind.info/about/:
 
